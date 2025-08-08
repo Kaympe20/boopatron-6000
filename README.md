@@ -16,6 +16,6 @@ Slack ID: `U07HY92M9GA`
 
 # Pics
 (The edge cuts was causing errors in KiCAD, but things like JLCPCB can use it)
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c56e6135abeab4d5c2d6bc1e4756c4d601951bb7_image.png)
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ed73acc97dc82d4b556e0f1786a0d402da14bd53_image.png)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a19bf5a9a8f6725b3d45816246353c116313dc86_image.png)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f7b27b300a67c5f4bb295d2dddf024789e92d9da_image.png)
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/3d43321542414f55d0f0f6405234042e0eb2b3b6_image.png)
